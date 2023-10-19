@@ -10,7 +10,7 @@
 
 ### 👨 &nbsp;A Little Bit About Me
 ```yaml
-name: Derrick CHoong
+name: Derrick Choong
 location: Perth, Australia
 education:
   [
