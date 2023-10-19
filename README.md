@@ -1,16 +1,15 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Derrick%20Choong&fontSize=80&fontColor=FFFFFF&color=0:000000,100:0000FF">
 
 <p align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDerrickCGT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
 </p>
 
----
-
 [![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerrickCGT)](https://github.com/DerrickCGT/github-readme-stats)[![Derrick's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickCGT&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/DerrickCGT)
 
 ---
 
-### 👨 &nbsp;A Little Bit About Me
+<h1>👨 &nbsp;A Little Bit About Me</h1> 
 
 ```yaml
 name: Derrick CHoong
@@ -60,7 +59,7 @@ hobbies: ["Movies", "Gaming", "Travel", "Trading"]
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next-JS" width="40" height="40"/>
 </p>
-
+</div>
 <!--
 This repository because its `README.md` (this file) appears on your GitHub profile.
 
