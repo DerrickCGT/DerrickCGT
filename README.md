@@ -23,10 +23,10 @@ education:
     "Bachelor's in Chemical Engineering",
   ]
 backGround:
-	[
-		Current: "Transitioning from renewable energy to tech, pursuing a career as a software developer.",
-		Past: "5 years in renewable energy as Business Development & Project Manager."
-	]
+  [
+    Current: "Transitioning from renewable energy to tech, pursuing a career as a software developer.",
+    Past: "5 years in renewable energy as Business Development & Project Manager."
+  ]
 fields_of_interests:
   [
     "Web Development",
