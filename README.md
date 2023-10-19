@@ -1,4 +1,4 @@
-<div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Derrick%20Choong&fontSize=80&fontColor=FFFFFF&color=0:000000,100:0000FF">
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-<h1>👨 &nbsp;A Little Bit About Me</h1> 
+### 👨 &nbsp;A Little Bit About Me
 
 ```yaml
 name: Derrick CHoong
@@ -38,7 +38,7 @@ hobbies: ["Movies", "Gaming", "Travel", "Trading"]
 ```
 ---
 
-<h1>🚀 &nbsp;Languages & Tools:</h1> 
+### 🚀 &nbsp;Languages & Tools:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
@@ -59,7 +59,7 @@ hobbies: ["Movies", "Gaming", "Travel", "Trading"]
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next-JS" width="40" height="40"/>
 </p>
-</div>
+
 <!--
 This repository because its `README.md` (this file) appears on your GitHub profile.
 
