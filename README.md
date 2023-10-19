@@ -21,7 +21,7 @@ education:
   ]
 backGround:
   [
-    Current: "Transitioning from renewable energy to tech, pursuing a career as a software developer.",
+    Current: "Transitioning from renewable energy to tech, pursuing new career as a software developer.",
     Past: "5 years in renewable energy as Business Development & Project Manager."
   ]
 fields_of_interests:
@@ -32,7 +32,7 @@ fields_of_interests:
     "UI/UX",    
     "DevOps",
   ]  
-currently_learning: ["Next.js, python, .NET "]
+currently_learning: ["Next.js, Python, .NET "]
 hobbies: ["Movies", "Gaming", "Travel", "Trading"]
 ```
 ---
