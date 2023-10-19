@@ -9,7 +9,6 @@
 ---
 
 ### 👨 &nbsp;A Little Bit About Me
-
 ```yaml
 name: Derrick CHoong
 location: Perth, Australia
@@ -19,7 +18,7 @@ education:
     "Diploma in Information Technology",
     "Bachelor's in Chemical Engineering",
   ]
-backGround:
+background:
   [
     Current: "Transitioning from renewable energy to tech, pursuing new career as a software developer.",
     Past: "5 years in renewable energy as Business Development & Project Manager."
@@ -35,6 +34,7 @@ fields_of_interests:
 currently_learning: ["Next.js, Python, .NET "]
 hobbies: ["Movies", "Gaming", "Travel", "Trading"]
 ```
+
 ---
 
 ### 🚀 &nbsp;Languages & Tools:
