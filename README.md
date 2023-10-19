@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,100:0000FF">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0000FF,100:000000">
