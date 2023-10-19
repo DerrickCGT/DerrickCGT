@@ -11,6 +11,7 @@
 [![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerrickCGT)](https://github.com/DerrickCGT/github-readme-stats)[![Derrick's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickCGT&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/DerrickCGT)
 </p>
 
+<p>
 ### 👨 &nbsp;A Little Bit About Me
 
 ```yaml
@@ -38,7 +39,7 @@ fields_of_interests:
 currently_learning: ["Next.js, python, .NET "]
 hobbies: ["Movies", "Gaming", "Travel", "Trading"]
 ```
-
+</p>
 
 ### 🚀 &nbsp;Languages & Tools:
 <p align="left">
