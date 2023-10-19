@@ -38,7 +38,7 @@ hobbies: ["Movies", "Gaming", "Travel", "Trading"]
 ```
 ---
 
-### 🚀 &nbsp;Languages & Tools:
+<h1>🚀 &nbsp;Languages & Tools:</h1> 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
