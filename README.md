@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Derrick%20Choong&fontSize=90&fontColor=White&color=0:000000,100:0000FF">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Derrick%20Choong&fontSize=90&color=auto">
 
 
  repository because its `README.md` (this file) appears on your GitHub profile.
